@@ -1,0 +1,6 @@
+{
+  "name": "ReClaim AI – Intelligent Reusable Materials Marketplace",
+  "description": "AI-powered marketplace for architectural salvage and reusable construction materials with multimodal Snap & List and Upcycle Co-Pilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
